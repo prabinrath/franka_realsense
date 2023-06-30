@@ -14,6 +14,8 @@
 
   <depend>rclpy</depend>
   <exec_depend>ros2launch</exec_depend>
+  <exec_depend>franka_moveit_config</exec_depend>
+  <exec_depend>realsense2_camera</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
